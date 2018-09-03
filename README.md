@@ -1,2 +1,4 @@
 # New-Product-Demand-prediction
 This project involves in predicting the demand for a product with new features based on the historical data of demand available for similar and currently existing products using Machine learning algorithms such as Clustering, Regression. The model further uses a method for computing an normalized innovation potential factor for the new feature. This innovation potential can be used to predict the change in sales that can occur because of the addition of the new feature.
+
+The computation of such raw innovation potential factor makes this model widely usable and not domain specific. The same model can be used to predict the demand for the new product in automobiles as well as technology such as laptops. This can be done by altering the weights of the factors that affect product accordingly.
