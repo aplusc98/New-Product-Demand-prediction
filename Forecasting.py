@@ -1,11 +1,5 @@
 
 # coding: utf-8
-
-
-# coding: utf-8
-
-# In[189]:
-
 #@author: ASISH CHAKRAPANI
 # K-Means Clustering
 
